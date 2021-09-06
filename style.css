@@ -1,0 +1,55 @@
+/* Universal Selector */
+* {
+    margin:0;
+    padding:0;  
+  }
+ /*elements Selector */ 
+body {
+background-color:#282120;
+color:#f8efe4;
+box-sizing: border-box;
+font-family: 'Mali', cursive;
+/*font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;*/
+}
+/*
+*<header>
+*      <nav>
+*        <ul>
+*          <li><a href="#"> Github</a></li>
+*          <li><a href="#"> Portfolio </a></li>
+*          <li><a href="#"> Contact me</a></li>
+*        </ul>
+*      </nav>
+*    </header>
+*/
+
+header,footer {
+    height: 60px;
+    width: 100%;
+    background: #fad02c;
+    color: #282120;
+    border-top: 1px solid #
+   
+
+}
+header nav {
+   
+
+}
+header nav ul {
+    /* margin:auto; */
+    justify-content:center;
+    
+}
+header nav ul li {
+    
+       
+
+}
+header nav ul a {
+    text-decoration: none;
+    color: #282120;
+}
+header nav ul a:hover {}
+header nav ul a:active {}
+header nav ul a:focus {}
